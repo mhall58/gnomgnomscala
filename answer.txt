@@ -1,0 +1,1 @@
+GNOM = 7823 and SCALA = 15646
